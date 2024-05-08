@@ -8,9 +8,9 @@ A Simple Weather App Made Using React Native
 
 
 ### Features:
-1. Search and get current location weather. => Complêt
+1. Search and get current location weather. => Completed
 2. List location => Complete, add and remove items. => Incomplete
-3. Setup axios interceptor. => Complete
+3. Setup axios interceptor. => Completed
 4. Setup Redux toolkit. => Installed but haven't used
 
 
