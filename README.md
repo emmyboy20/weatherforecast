@@ -16,16 +16,16 @@ A Simple Weather App Made Using React Native
 
 ### 💻 Technologies Used
 
-React Native
-Expo
-Tailwind CSS
+React Native,
+Expo,
+Tailwind CSS,
 
 
 ### 📖 𝗨𝘀𝗲𝗱 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀/𝗣𝗮𝗰𝗸𝗮𝗴𝗲𝘀
-React Native Vector icons
-React Navigation
-React Native Heroicons
-React Native Async Storage
+React Native Vector icons,
+React Navigation,
+React Native Heroicons,
+React Native Async Storage,
 Redux toolkix
 
 
