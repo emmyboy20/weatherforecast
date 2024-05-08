@@ -34,10 +34,20 @@ WeatherAPI
 
 ### 💬 Improvement in future
 Install moment and use moment for taking currentHour - change next 7days = currentHour + 8h -> export avgtemp_c for each hour in that day
+
+
 Divide HomeScreen into 3 screens: HomeScreen - SearchingScreen - 7DaysForecast
+
+
   -> Already have navigation in app, use it for change each screen
+
+  
   -> Take function temp_c for next 7 days to 7DaysForecast screen
+
+  
   -> Move searchingBar and function to Searching screen
+
+  
 Use Redux-toolkit for asynchronous API calls
 
 
